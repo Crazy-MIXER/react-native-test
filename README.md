@@ -1,2 +1,3 @@
 # react-native-test app
-stack: Expo, React Native, TypeScript, Jotai 
+Stack: Expo, React Native, TypeScript, Jotai 
+Made for Studio TG
